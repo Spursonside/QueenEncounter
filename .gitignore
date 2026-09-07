@@ -1,0 +1,13 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+BuildOutput/
+.vs/
+*.sln
+*.suo
+Content/
+LearningRuns/
+__pycache__/
+*.pyc
+.env*

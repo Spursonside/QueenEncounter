@@ -4,7 +4,7 @@
 
 **이동준 · 개인 프로젝트 · Unreal Engine 5.8.2 · C++ · GPT-6 Astra와 AI 협업 개발**
 
-[포트폴리오 사이트](https://dongjun-lee-games.djlee521.chatgpt.site) · [개발 과정 영상](https://youtu.be/Fy-Y-ijRfiE)
+[개발 과정 영상](https://youtu.be/Fy-Y-ijRfiE)
 
 ARC Raiders의 퀸이 주는 규모감과 손실 후 이동을 참고했습니다. 원작 모델, 애니메이션, 소스 코드와 회사 내부 자료를 사용하지 않습니다. 기본 도형과 자체 생성 지형으로 구성했습니다. 원작 개발 방식의 재현을 주장하지 않습니다.
 
